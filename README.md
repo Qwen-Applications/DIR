@@ -120,7 +120,7 @@ The script will generate responses for the benchmark prompts and compute the fin
 
 This project is built upon several fantastic open-source libraries. We would like to extend our heartfelt gratitude to the developers and communities of:
 - [Hugging Face Transformers](https://github.com/huggingface/transformers) for providing easy access to state-of-the-art models.
-- [Hugging Face TRL](https://github.com/huggingface/trl) for the robust `RewardTrainer` which served as the foundation for our `AplotRewardTrainer`.
+- [Hugging Face TRL](https://github.com/huggingface/trl) for the robust `RewardTrainer` which served as the foundation for our DebiasTrainer.
 - [DeepSpeed](https://github.com/microsoft/DeepSpeed) for enabling efficient large-model training.
 - [ModelScope Swift](https://github.com/modelscope/ms-swift) and [EvalScope](https://github.com/modelscope/evalscope) for the powerful PPO and evaluation frameworks.
 - The [Generalizable-Reward-Model](https://github.com/YangRui2015/Generalizable-Reward-Model) repository for providing a useful data processing script.
