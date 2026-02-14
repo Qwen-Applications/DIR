@@ -4,7 +4,6 @@
 
 # 1. 在这里填入你想要下载的所有模型ID
 DATASETS_TO_DOWNLOAD=(
-    "inclusionAI/ASearcher-train-data"
     "AI-ModelScope/HelpSteer3"
     "AI-ModelScope/alpaca-gpt4-data-en"
     "opencompass/ifeval"
